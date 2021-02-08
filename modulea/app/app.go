@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/kaustavc/test-go-project/modulea/mathlib"
-	"github.com/kaustavc/test-go-project/moduleb"
+	"github.com/kaustavc/test-go-project1/modulea/mathlib"
+	"github.com/kaustavc/test-go-project1/moduleb"
 )
 
 func main() {
