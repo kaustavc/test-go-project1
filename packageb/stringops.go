@@ -1,4 +1,4 @@
-package moduleb
+package packageb
 
 import (
 	"strings"
